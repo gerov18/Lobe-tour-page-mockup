@@ -450,3 +450,13 @@ footer{
     }
 
 }
+@media screen and (min-width: 1200px){
+    main{
+        max-width: 1088px;
+        margin: auto;
+    }
+    .main-title{
+        font-size: 64px;
+    }
+}
+
